@@ -1,4 +1,4 @@
--"use strict";
+"use strict";
 /* Hay dos equ-ipos de gimnasia, Ricks y Mortys. Compiten entre ellos 3 veces. ¡El
 ganador con la puntuación promedio más alta gana un pase de aventura!
  */
